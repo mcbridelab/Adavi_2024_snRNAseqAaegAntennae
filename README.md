@@ -1,12 +1,12 @@
 # Adavi_2024_snRNAseqAaegAntennae
 Analysis scripts from Adavi et al 2024 survey of molecular cell types and receptor expression across neurons on the antennae of Aedes aegypti females
 
-Genome reannoation script
+GENOME REANNOTATION SCRIPT
 1) Reannotation_ThreePrimeUTR_Extender.py
 
 For updated AaegL5 genome annotation generated with above script, see https://doi.org/10.5281/zenodo.12801833
   
-R scripts
+snRNAseq DATA ANALYSIS R SCRIPTS
 1) AllNeuron_analyses_v4.R (Fig. 1)
 2) THSN_analyses_v4.R (Fig. 2)
 3) orcoMinusOSN_analyses_v8.R (Fig. 3)
