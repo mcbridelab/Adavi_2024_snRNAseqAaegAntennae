@@ -1,5 +1,5 @@
 # Adavi_2024_snRNAseqAaegAntennae
-Analysis scripts from Adavi et al 2024 survey of molecular cell types and receptor expression across neurons on the antennae of Aedes aegypti females
+Analysis scripts from Adavi et al 2024 survey of neuronal cell types and gene expression across the antennae of female Aedes aegypti mosquitoes
 
 GENOME REANNOTATION SCRIPT
 1) Reannotation_ThreePrimeUTR_Extender.py
