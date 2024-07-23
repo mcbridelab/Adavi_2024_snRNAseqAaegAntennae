@@ -12,4 +12,4 @@ snRNAseq DATA ANALYSIS R SCRIPTS
 3) orcoMinusOSN_analyses_v8.R (Fig. 3)
 4) orcoPlusOSN_analyses_v7.R (Fig. 4)
 
-For Rdata objects referenced in above scripts, see https://doi.org/10.5281/zenodo.12797292
+For Rdata objects referenced in above analysis scripts, see https://doi.org/10.5281/zenodo.12797292
