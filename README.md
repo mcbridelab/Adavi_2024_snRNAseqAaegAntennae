@@ -4,6 +4,8 @@ Analysis scripts from Adavi et al 2024 survey of molecular cell types and recept
 Genome reannoation script
 1) Reannotation_ThreePrimeUTR_Extender.py
 
+For updated AaegL5 genome annotation generated with above script, see https://doi.org/10.5281/zenodo.12801833
+  
 R scripts
 1) AllNeuron_analyses_v4.R (Fig. 1)
 2) THSN_analyses_v4.R (Fig. 2)
